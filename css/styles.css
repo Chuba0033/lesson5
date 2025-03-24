@@ -1,0 +1,156 @@
+@import url("reset.css");
+
+.header {
+    background-color: rgb(184, 179, 179);
+    width: 1440px;
+    height: 70px;
+}
+
+.a-header {
+    color: black;
+    text-align:end;
+    text-decoration-line: none;
+    border-collapse: collapse;
+    width: 600px;
+    margin: 0 auto;
+    font-size: 16px;
+    text-shadow: 1px 1px rgb(48, 43, 43);
+}
+
+.divall {
+    box-sizing: border-box;
+    margin: 0 auto;
+    width: 600px;
+    background-color: #ccc;
+}
+
+#h1 {
+    text-align: center;
+    color: black;
+    padding: 10px 10px;
+    text-decoration: underline;
+    text-shadow: 2px 2px red;
+    font-size: 24px;
+}
+
+.div1 {
+    color: green;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+    width: 100%;
+    border: 10px solid blue;
+    padding: 20px 20px;
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+
+.div2 {
+    color: black;
+    background: blueviolet;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+    margin: 10px 0px;
+    width: 100%;
+}
+
+.p2 {
+    width: 600px;
+    text-align: center;
+}
+
+.img2 {
+    width: 600px;
+    height: 300px;
+    text-align: center
+}
+
+.div3 {
+    color: brown;
+    background-color: aqua;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+    width: 100%;
+    height: 200px;
+    overflow: scroll;
+    margin: 0 auto;
+}
+
+.txtcentre {
+    text-align: center;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.p2 {
+    color: black;
+}
+
+.p2size {
+    font-size: 16px;
+    background-color: #ccc;
+    box-sizing: border-box;
+    letter-spacing: 2px;
+}
+
+.divp {
+    margin: 10px 0;
+}
+
+.p2h1 {
+    text-align: center;
+    color: rgb(227, 39, 14);
+     text-decoration: overline purple;
+     padding: 10px 10px; 
+     font-size: 24px;
+     text-decoration-line: none;
+     background-color: antiquewhite;
+     box-sizing: border-box;
+}
+
+.diva {
+    text-align: center;
+    margin: 0 auto
+}
+
+.tfoot {
+        background-color: rgb(184, 179, 179);
+        width: 1440px;
+        height: 70px;
+}
+
+.table {
+    margin: 10px 0;
+    border-collapse: collapse;
+    color: darkblue;
+    width: 600px;
+    text-align: center;
+    border: 2px solid #ddd
+}
+
+.tr1 {
+font-size: 15px;
+color: red;
+border-collapse: separate;
+background-color: #ccc;
+border-spacing: 10px 30px;
+padding: 8px 8px;
+border-bottom: 1px solid #98A2B3;
+text-align: center;
+}
+
+.wrapper p+p {
+    font-style: oblique;
+    text-align: center;
+    font-size: 16px;
+    color: black;
+}
+
+.span>p{
+    font-style: italic;
+    font-size: 17px;
+    text-align: center;
+    color: #98A2B3;
+}
