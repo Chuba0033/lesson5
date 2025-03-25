@@ -117,7 +117,6 @@
 
 .tfoot {
         background-color: rgb(184, 179, 179);
-        width: 1440px;
         height: 70px;
 }
 
@@ -153,4 +152,16 @@ text-align: center;
     font-size: 17px;
     text-align: center;
     color: #98A2B3;
+}
+
+.divsecpage {
+    width: 600px;
+    padding: 20px 20px;
+    text-align: center;
+    margin: 0 auto
+}
+
+.textc-m {
+text-align: center;
+vertical-align: middle;
 }
