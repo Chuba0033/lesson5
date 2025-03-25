@@ -165,3 +165,22 @@ text-align: center;
 text-align: center;
 vertical-align: middle;
 }
+
+.divsec {
+  color: green;
+  font-size: 30px;
+  font-weight: 100;
+  text-align: center;
+  width: 600px;
+  border: 10px dotted rgb(33, 66, 123);
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px 10px;
+}
+
+.micko>h2 {
+  text-align: center; 
+  overflow: auto; 
+  text-decoration: underline; 
+  color: brown;
+}
